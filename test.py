@@ -1,1 +1,3 @@
-raise Exception("eRroreee123")
+import mock
+
+raise Exception("error")
