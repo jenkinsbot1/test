@@ -1,1 +1,1 @@
-raise Exception("eRror")
+pass
