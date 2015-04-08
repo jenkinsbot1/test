@@ -1,3 +1,3 @@
 import mock
 
-raise Exception("error")
+pass
